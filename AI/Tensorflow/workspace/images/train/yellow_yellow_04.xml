@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yellow_yellow_04.png</filename>
+	<path>C:\Users\Silvan Mangold\Desktop\Studium\Module\H2301\TA. PREN1\AI\images\train\yellow_yellow_04.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>787</width>
+		<height>786</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YellowYellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>69</ymin>
+			<xmax>577</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

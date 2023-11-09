@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yellow_nothing_04.png</filename>
+	<path>C:\Users\Silvan Mangold\Desktop\Studium\Module\H2301\TA. PREN1\AI\images\train\yellow_nothing_04.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>786</width>
+		<height>792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YellowNothing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>325</ymin>
+			<xmax>522</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>
