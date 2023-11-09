@@ -48,7 +48,7 @@ files = {
 for path in paths.values():
     if not os.path.exists(path):
         if os.name == 'nt':
-            !mkdir {path}
+            mkdir {path}
 
 if not os.path.exists(os.path.join(paths['APIMODEL_PATH'], 'research', 'object_detection')):
     wget.download('https://github.com/tensorflow/models/archive/refs/heads/master.zip', paths['APIMODEL_PATH']+'/models.zip')
