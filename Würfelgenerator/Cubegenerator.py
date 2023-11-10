@@ -50,6 +50,38 @@ def Cube2():
             glVertex3fv(verticies[vertex])
     glEnd()
     
+def Cube3():
+    glBegin(GL_QUADS)
+    for surface in surfaces:
+        glColor4f(1,0,0,1) #hier kommt Farbcode rein
+        for vertex in surface:
+            glVertex3fv(verticies[vertex])
+    glEnd()
+    
+    glBegin(GL_LINES)
+    for edge in edges:
+        glColor4f(0,0,0,1)
+        for vertex in edge:
+            glVertex3fv(verticies[vertex])
+    glEnd()
+    
+def Cube4():
+    glBegin(GL_QUADS)
+    for surface in surfaces:
+        glColor4f(1,0,0,1) #hier kommt Farbcode rein
+        for vertex in surface:
+            glVertex3fv(verticies[vertex])
+    glEnd()
+    
+    glBegin(GL_LINES)
+    for edge in edges:
+        glColor4f(0,0,0,1)
+        for vertex in edge:
+            glVertex3fv(verticies[vertex])
+    glEnd()
+    
+        
+    
 #funktioniert noch nicht
     
 def save_image(filename):
