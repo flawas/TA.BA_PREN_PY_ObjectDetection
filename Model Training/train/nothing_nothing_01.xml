@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>nothing_nothing_01.png</filename>
+	<path>C:\Users\Silvan Mangold\Desktop\Studium\Module\H2301\TA. PREN1\AI\images\train\nothing_nothing_01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>783</width>
+		<height>787</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NothingNothing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>152</ymin>
+			<xmax>704</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>
