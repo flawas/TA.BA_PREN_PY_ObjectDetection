@@ -1,0 +1,676 @@
+item { 
+	name:'Blue-Blue-Blue-Blue'
+	id:1
+}
+item { 
+	name:'Blue-Blue-Blue-Nothing'
+	id:2
+}
+item { 
+	name:'Blue-Blue-Blue-Red'
+	id:3
+}
+item { 
+	name:'Blue-Blue-Blue-Yellow'
+	id:4
+}
+item { 
+	name:'Blue-Blue-Nothing-Blue'
+	id:5
+}
+item { 
+	name:'Blue-Blue-Nothing-Nothing'
+	id:5
+}
+item { 
+	name:'Blue-Blue-Nothing-Red'
+	id:6
+}
+item { 
+	name:'Blue-Blue-Nothing-Yellow'
+	id:7
+}
+item { 
+	name:'Blue-Blue-Red-Blue'
+	id:8
+}
+item { 
+	name:'Blue-Blue-Red-Nothing'
+	id:9
+}
+item { 
+	name:'Blue-Blue-Red-Red'
+	id:10
+}
+item { 
+	name:'Blue-Blue-Red-Yellow'
+	id:11
+}
+item { 
+	name:'Blue-Blue-Yellow-Blue'
+	id:12
+}
+item { 
+	name:'Blue-Blue-Yellow-Nothing'
+	id:13
+}
+item { 
+	name:'Blue-Blue-Yellow-Red'
+	id:14
+}
+item { 
+	name:'Blue-Blue-Yellow-Yellow'
+	id:15
+}
+item { 
+	name:'Blue-Nothing-Nothing-Blue'
+	id:16
+}
+item { 
+	name:'Blue-Nothing-Nothing-Nothing'
+	id:17
+}
+item { 
+	name:'Blue-Nothing-Nothing-Red'
+	id:18
+}
+item { 
+	name:'Blue-Nothing-Nothing-Yellow'
+	id:19
+}
+item { 
+	name:'Blue-Red-Blue-Blue'
+	id:20
+}
+item { 
+	name:'Blue-Red-Blue-Nothing'
+	id:21
+}
+item { 
+	name:'Blue-Red-Blue-Red'
+	id:22
+}
+item { 
+	name:'Blue-Red-Blue-Yellow'
+	id:23
+}
+item { 
+	name:'Blue-Red-Nothing-Blue'
+	id:24
+}
+item { 
+	name:'Blue-Red-Nothing-Nothing'
+	id:25
+}
+item { 
+	name:'Blue-Red-Nothing-Red'
+	id:26
+}
+item { 
+	name:'Blue-Red-Nothing-Yellow'
+	id:27
+}
+item { 
+	name:'Blue-Red-Red-Blue'
+	id:28
+}
+item { 
+	name:'Blue-Red-Red-Nothing'
+	id:29
+}
+item { 
+	name:'Blue-Red-Red-Red'
+	id:30
+}
+item { 
+	name:'Blue-Red-Red-Yellow'
+	id:31
+}
+item { 
+	name:'Blue-Red-Yellow-Blue'
+	id:32
+}
+item { 
+	name:'Blue-Red-Yellow-Nothing'
+	id:33
+}
+item { 
+	name:'Blue-Red-Yellow-Red'
+	id:34
+}
+item { 
+	name:'Blue-Red-Yellow-Yellow'
+	id:35
+}
+item { 
+	name:'Blue-Yellow-Blue-Blue'
+	id:36
+}
+item { 
+	name:'Blue-Yellow-Blue-Nothing'
+	id:37
+}
+item { 
+	name:'Blue-Yellow-Blue-Red'
+	id:38
+}
+item { 
+	name:'Blue-Yellow-Blue-Yellow'
+	id:39
+}
+item { 
+	name:'Blue-Yellow-Nothing-Blue'
+	id:40
+}
+item { 
+	name:'Blue-Yellow-Nothing-Nothing'
+	id:41
+}
+item { 
+	name:'Blue-Yellow-Nothing-Red'
+	id:42
+}
+item { 
+	name:'Blue-Yellow-Nothing-Yellow'
+	id:43
+}
+item { 
+	name:'Blue-Yellow-Red-Blue'
+	id:44
+}
+item { 
+	name:'Blue-Yellow-Red-Nothing'
+	id:45
+}
+item { 
+	name:'Blue-Yellow-Red-Red'
+	id:46
+}
+item { 
+	name:'Blue-Yellow-Red-Yellow'
+	id:47
+}
+item { 
+	name:'Blue-Yellow-Yellow-Blue'
+	id:48
+}
+item { 
+	name:'Blue-Yellow-Yellow-Nothing'
+	id:49
+}
+item { 
+	name:'Blue-Yellow-Yellow-Red'
+	id:50
+}
+item { 
+	name:'Blue-Yellow-Yellow-Yellow'
+	id:51
+}
+item { 
+	name:'Nothing-Blue-Blue-Nothing'
+	id:52
+}
+item { 
+	name:'Nothing-Blue-Nothing-Nothing'
+	id:53
+}
+item { 
+	name:'Nothing-Blue-Red-Nothing'
+	id:54
+}
+item { 
+	name:'Nothing-Blue-Yellow-Nothing'
+	id:55
+}
+item { 
+	name:'Nothing-Nothing-Nothing-Nothing'
+	id:56
+}
+item { 
+	name:'Nothing-Nothing-Yellow-Nothing'
+	id:57
+}
+item { 
+	name:'Nothing-Red-Blue-Nothing'
+	id:58
+}
+item { 
+	name:'Nothing-Red-Nothing-Nothing'
+	id:59
+}
+item { 
+	name:'Nothing-Red-Red-Nothing'
+	id:60
+}
+item { 
+	name:'Nothing-Red-Yellow-Nothing'
+	id:61
+}
+item { 
+	name:'Nothing-Yellow-Blue-Nothing'
+	id:62
+}
+item { 
+	name:'Nothing-Yellow-Red-Nothing'
+	id:63
+}
+item { 
+	name:'Nothing-Yellow-Yellow-Nothing'
+	id:64
+}
+item { 
+	name:'Red-Blue-Blue-Blue'
+	id:65
+}
+item { 
+	name:'Red-Blue-Blue-Nothing'
+	id:66
+}
+item { 
+	name:'Red-Blue-Blue-Red'
+	id:67
+}
+item { 
+	name:'Red-Blue-Blue-Yellow'
+	id:68
+}
+item { 
+	name:'Red-Blue-Nothing-Blue'
+	id:69
+}
+item { 
+	name:'Red-Blue-Nothing-Nothing'
+	id:70
+}
+item { 
+	name:'Red-Blue-Nothing-Red'
+	id:71
+}
+item { 
+	name:'Red-Blue-Nothing-Yellow'
+	id:72
+}
+item { 
+	name:'Red-Blue-Red-Blue'
+	id:73
+}
+item { 
+	name:'Red-Blue-Red-Nothing'
+	id:74
+}
+item { 
+	name:'Red-Blue-Red-Red'
+	id:75
+}
+item { 
+	name:'Red-Blue-Red-Yellow'
+	id:76
+}
+item { 
+	name:'Red-Blue-Yellow-Blue'
+	id:77
+}
+item { 
+	name:'Red-Blue-Yellow-Nothing'
+	id:78
+}
+item { 
+	name:'Red-Blue-Yellow-Red'
+	id:79
+}
+item { 
+	name:'Red-Blue-Yellow-Yellow'
+	id:80
+}
+item { 
+	name:'Red-Nothing-Nothing-Blue'
+	id:81
+}
+item { 
+	name:'Red-Nothing-Nothing-Nothing'
+	id:82
+}
+item { 
+	name:'Red-Nothing-Nothing-Red'
+	id:83
+}
+item { 
+	name:'Red-Nothing-Nothing-Yellow'
+	id:84
+}
+item { 
+	name:'Red-Red-Blue-Blue'
+	id:85
+}
+item { 
+	name:'Red-Red-Blue-Nothing'
+	id:86
+}
+item { 
+	name:'Red-Red-Blue-Red'
+	id:87
+}
+item { 
+	name:'Red-Red-Blue-Yellow'
+	id:88
+}
+item { 
+	name:'Red-Red-Nothing-Blue'
+	id:89
+}
+item { 
+	name:'Red-Red-Nothing-Nothing'
+	id:90
+}
+item { 
+	name:'Red-Red-Nothing-Red'
+	id:91
+}
+item { 
+	name:'Red-Red-Nothing-Yellow'
+	id:92
+}
+item { 
+	name:'Red-Red-Red-Blue'
+	id:93
+}
+item { 
+	name:'Red-Red-Red-Nothing'
+	id:94
+}
+item { 
+	name:'Red-Red-Red-Red'
+	id:95
+}
+item { 
+	name:'Red-Red-Red-Yellow'
+	id:96
+}
+item { 
+	name:'Red-Red-Yellow-Blue'
+	id:97
+}
+item { 
+	name:'Red-Red-Yellow-Nothing'
+	id:98
+}
+item { 
+	name:'Red-Red-Yellow-Red'
+	id:99
+}
+item { 
+	name:'Red-Red-Yellow-Yellow'
+	id:100
+}
+item { 
+	name:'Red-Yellow-Blue-Blue'
+	id:101
+}
+item { 
+	name:'Red-Yellow-Blue-Nothing'
+	id:102
+}
+item { 
+	name:'Red-Yellow-Blue-Red'
+	id:103
+}
+item { 
+	name:'Red-Yellow-Blue-Yellow'
+	id:104
+}
+item { 
+	name:'Red-Yellow-Nothing-Blue'
+	id:105
+}
+item { 
+	name:'Red-Yellow-Nothing-Nothing'
+	id:106
+}
+item { 
+	name:'Red-Yellow-Nothing-Red'
+	id:107
+}
+item { 
+	name:'Red-Yellow-Nothing-Yellow'
+	id:108
+}
+item { 
+	name:'Red-Yellow-Red-Blue'
+	id:109
+}
+item { 
+	name:'Red-Yellow-Red-Nothing'
+	id:110
+}
+item { 
+	name:'Red-Yellow-Red-Red'
+	id:111
+}
+item { 
+	name:'Red-Yellow-Red-Yellow'
+	id:112
+}
+item { 
+	name:'Red-Yellow-Yellow-Blue'
+	id:113
+}
+item { 
+	name:'Red-Yellow-Yellow-Nothing'
+	id:114
+}
+item { 
+	name:'Red-Yellow-Yellow-Red'
+	id:115
+}
+item { 
+	name:'Red-Yellow-Yellow-Yellow'
+	id:116
+}
+item { 
+	name:'Yellow-Blue-Blue-Blue'
+	id:117
+}
+item { 
+	name:'Yellow-Blue-Blue-Nothing'
+	id:118
+}
+item { 
+	name:'Yellow-Blue-Blue-Red'
+	id:119
+}
+item { 
+	name:'Yellow-Blue-Blue-Yellow'
+	id:120
+}
+item { 
+	name:'Yellow-Blue-Nothing-Blue'
+	id:121
+}
+item { 
+	name:'Yellow-Blue-Nothing-Nothing'
+	id:122
+}
+item { 
+	name:'Yellow-Blue-Nothing-Red'
+	id:123
+}
+item { 
+	name:'Yellow-Blue-Nothing-Yellow'
+	id:124
+}
+item { 
+	name:'Yellow-Blue-Red-Blue'
+	id:125
+}
+item { 
+	name:'Yellow-Blue-Red-Nothing'
+	id:126
+}
+item { 
+	name:'Yellow-Blue-Red-Red'
+	id:127
+}
+item { 
+	name:'Yellow-Blue-Red-Yellow'
+	id:128
+}
+item { 
+	name:'Yellow-Blue-Yellow-Blue'
+	id:129
+}
+item { 
+	name:'Yellow-Blue-Yellow-Nothing'
+	id:130
+}
+item { 
+	name:'Yellow-Blue-Yellow-Red'
+	id:131
+}
+item { 
+	name:'Yellow-Blue-Yellow-Yellow'
+	id:132
+}
+item { 
+	name:'Yellow-Nothing-Nothing-Blue'
+	id:133
+}
+item { 
+	name:'Yellow-Nothing-Nothing-Nothing'
+	id:134
+}
+item { 
+	name:'Yellow-Nothing-Nothing-Red'
+	id:135
+}
+item { 
+	name:'Yellow-Nothing-Nothing-Yellow'
+	id:136
+}
+item { 
+	name:'Yellow-Red-Blue-Blue'
+	id:137
+}
+item { 
+	name:'Yellow-Red-Blue-Nothing'
+	id:138
+}
+item { 
+	name:'Yellow-Red-Blue-Red'
+	id:139
+}
+item { 
+	name:'Yellow-Red-Blue-Yellow'
+	id:140
+}
+item { 
+	name:'Yellow-Red-Nothing-Blue'
+	id:141
+}
+item { 
+	name:'Yellow-Red-Nothing-Nothing'
+	id:142
+}
+item { 
+	name:'Yellow-Red-Nothing-Red'
+	id:143
+}
+item { 
+	name:'Yellow-Red-Nothing-Yellow'
+	id:144
+}
+item { 
+	name:'Yellow-Red-Red-Blue'
+	id:145
+}
+item { 
+	name:'Yellow-Red-Red-Nothing'
+	id:146
+}
+item { 
+	name:'Yellow-Red-Red-Red'
+	id:147
+}
+item { 
+	name:'Yellow-Red-Red-Yellow'
+	id:148
+}
+item { 
+	name:'Yellow-Red-Yellow-Blue'
+	id:149
+}
+item { 
+	name:'Yellow-Red-Yellow-Nothing'
+	id:150
+}
+item { 
+	name:'Yellow-Red-Yellow-Red'
+	id:151
+}
+item { 
+	name:'Yellow-Red-Yellow-Yellow'
+	id:152
+}
+item { 
+	name:'Yellow-Yellow-Blue-Blue'
+	id:153
+}
+item { 
+	name:'Yellow-Yellow-Blue-Nothing'
+	id:154
+}
+item { 
+	name:'Yellow-Yellow-Blue-Red'
+	id:155
+}
+item { 
+	name:'Yellow-Yellow-Blue-Yellow'
+	id:156
+}
+item { 
+	name:'Yellow-Yellow-Nothing-Blue'
+	id:157
+}
+item { 
+	name:'Yellow-Yellow-Nothing-Nothing'
+	id:158
+}
+item { 
+	name:'Yellow-Yellow-Nothing-Red'
+	id:159
+}
+item { 
+	name:'Yellow-Yellow-Nothing-Yellow'
+	id:160
+}
+item { 
+	name:'Yellow-Yellow-Red-Blue'
+	id:161
+}
+item { 
+	name:'Yellow-Yellow-Red-Nothing'
+	id:162
+}
+item { 
+	name:'Yellow-Yellow-Red-Red'
+	id:163
+}
+item { 
+	name:'Yellow-Yellow-Red-Yellow'
+	id:164
+}
+item { 
+	name:'Yellow-Yellow-Yellow-Blue'
+	id:165
+}
+item { 
+	name:'Yellow-Yellow-Yellow-Nothing'
+	id:166
+}
+item { 
+	name:'Yellow-Yellow-Yellow-Red'
+	id:167
+}
+item { 
+	name:'Yellow-Yellow-Yellow-Yellow'
+	id:168
+}
